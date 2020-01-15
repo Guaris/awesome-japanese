@@ -3,6 +3,7 @@ A collection of resources to learn the Japanese Language
 
 ## Reading
 [Watanoc](http://watanoc.com/) - Beginner level news articles
+
 [J-nihongo](https://j-nihongo.com/) - Grammar example sentences
 
 ## Listening / Video
